@@ -1,5 +1,4 @@
 <?php
-
 	// Includes a re-usabe code stored in a separate file to establish connection
 	include "db_connect.php";
 	
